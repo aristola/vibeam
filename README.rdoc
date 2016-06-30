@@ -8,6 +8,23 @@ $ cd vibeam
 
 $ ./prelang-init
 
+
+Commit through terminal:
+
+$ git init
+
+$ git add .
+
+$ git commit -m "Kommentar"
+
+$ git remote add origin https://github.com/aristola/vibeam.git
+
+$ git remote -v
+
+$ git push origin master
+
+
+
 == END
 
 This README would normally document whatever steps are necessary to get the
