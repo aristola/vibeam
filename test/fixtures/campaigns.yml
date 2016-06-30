@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  goal_plays: 1
+  goal_funding: 1
+  maximum_funding: 1
+
+two:
+  goal_plays: 1
+  goal_funding: 1
+  maximum_funding: 1
