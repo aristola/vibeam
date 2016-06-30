@@ -1,8 +1,11 @@
 == README
 
 Connect to github:
+
 $ git clone https://github.com/aristola/vibeam.git
+
 $ cd vibeam
+
 $ ./prelang-init
 
 == END
